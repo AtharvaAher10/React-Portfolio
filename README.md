@@ -8,5 +8,8 @@ MAKING A SIMPLE WEB PAGE OF THE SHOE BRAND USING THE FOLLOWING TECHNOLOGIES.
 5) Simple CSS
 6) Responsiveness
 
+#   PROJECT LINK :
+      https://shoe-brand-project.netlify.app/
+      
 # OUTPUT
 ![Screenshot (35)](https://github.com/user-attachments/assets/f1799e57-a7b9-4999-a523-42d209c50353)
